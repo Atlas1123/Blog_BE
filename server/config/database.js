@@ -4,7 +4,7 @@ const DATABASE_CONFIG = {
     port: 3306,
     database: "mblogs",
     user: "root",
-    password: "12345678",
+    password: "",
 };
 
 module.exports = DATABASE_CONFIG;
